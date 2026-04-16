@@ -66,9 +66,11 @@ Reusable rocket landings significantly reduce launch costs. Predicting landing s
 
 (Add screenshots here)
 
+![Folium](images/folium_map.png)
+
 ![Dashboard](images/dashboard.png)
 
-![Launch Success Chart](images/chart.png)
+![Launch Success Chart](images/Accuracy(1).png)
 
 ---
 
