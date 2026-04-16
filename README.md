@@ -1,4 +1,3 @@
-# SpaceX-Landing-Prediction-Project
 # SpaceX Landing Prediction Project
 
 ## Overview
